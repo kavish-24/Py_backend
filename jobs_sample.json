@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Math Teacher",
+    "tags": [
+      "education",
+      "teaching",
+      "cbse",
+      "k12",
+      "mathematics",
+      "academic",
+      "school jobs",
+      "curriculum design"
+    ],
+    "id": "087a4271-0144-4e9e-8146-d4ab0d3379c0"
+  },
+  {
+    "title": "AI/ML Expert",
+    "tags": [
+      "technology",
+      "data science",
+      "ai",
+      "ml",
+      "research",
+      "analytics",
+      "computer science",
+      "software roles"
+    ],
+    "id": "50f1c591-d1ae-4749-9e5a-6d9a5f0184cd"
+  },
+  {
+    "title": "Account Executive",
+    "tags": [
+      "finance",
+      "accounts",
+      "bookkeeping",
+      "tally",
+      "business operations",
+      "compliance",
+      "gst",
+      "corporate"
+    ],
+    "id": "d90ce82e-5f5a-4925-9ee6-472de7813f68"
+  },
+  {
+    "title": "Software Engineer",
+    "tags": [
+      "software",
+      "development",
+      "engineering",
+      "technology",
+      "backend",
+      "full stack",
+      "it jobs",
+      "programming"
+    ],
+    "id": "6d851a0b-d2b8-4a35-afb7-acc88fc61f54"
+  },
+  {
+    "title": "Frontend Developer",
+    "tags": [
+      "web development",
+      "frontend",
+      "uiux",
+      "javascript",
+      "react",
+      "design",
+      "htmlcss",
+      "it jobs"
+    ],
+    "id": "42471c0b-c9c8-4d9a-8094-8b3ee2e02259"
+  },
+  {
+    "title": "Backend Developer",
+    "tags": [
+      "backend",
+      "serverside",
+      "api",
+      "databases",
+      "programming",
+      "cloud",
+      "nodejs",
+      "software engineering"
+    ],
+    "id": "44b448ef-4946-4a05-ad07-1b79cbf6aa93"
+  },
+  {
+    "title": "Data Analyst",
+    "tags": [
+      "analytics",
+      "data",
+      "business intelligence",
+      "dashboards",
+      "sql",
+      "insights",
+      "technology",
+      "statistics"
+    ],
+    "id": "996d2d6b-5694-47d6-be12-b5db5b7e1920"
+  },
+  {
+    "title": "HR Manager",
+    "tags": [
+      "hr",
+      "management",
+      "recruitment",
+      "corporate",
+      "employee engagement",
+      "office jobs",
+      "leadership",
+      "training"
+    ],
+    "id": "a4947c53-5368-4b73-b974-062224e8e0c0"
+  },
+  {
+    "title": "DevOps Engineer",
+    "tags": [
+      "devops",
+      "cloud computing",
+      "infrastructure",
+      "cicd",
+      "engineering",
+      "automation",
+      "technology",
+      "platform"
+    ],
+    "id": "699e19cd-a2ed-4ac8-8b20-7ebd6d20fe80"
+  },
+  {
+    "title": "Cybersecurity Analyst",
+    "tags": [
+      "cybersecurity",
+      "infosec",
+      "security",
+      "network",
+      "compliance",
+      "tech",
+      "audit",
+      "vulnerability management"
+    ],
+    "id": "450b44ac-87a2-4d94-ac3d-ee7d8e3c86b2"
+  },
+  {
+    "id": "job-001\t",
+    "title": "Software Developer\t",
+    "tags": [
+      "backend",
+      "nodejs",
+      "sql",
+      "api"
+    ]
+  },
+  {
+    "id": "j1\t",
+    "title": "Software Developer\t",
+    "tags": [
+      "backend",
+      "nodejs",
+      "sql",
+      "api"
+    ]
+  }
+]
