@@ -1,5 +1,4 @@
 COMMON_SKILLS = [
-    # Programming and Technology
     "python", "java", "c++", "c", "javascript", "typescript", "react", "node js", "angular", "vue js",
     "html", "css", "sass", "less", "ruby", "ruby on rails", "php", "laravel", "spring", "hibernate",
     "kotlin", "swift", "objective-c", "go", "rust", "scala", "r", "matlab", "perl", "haskell",
@@ -9,57 +8,73 @@ COMMON_SKILLS = [
     "kubernetes", "terraform", "ansible", "jenkins", "travis ci", "circleci", "aws", "azure",
     "google cloud", "heroku", "digital ocean", "rest api", "graphql", "websocket",
     "microservices", "serverless", "ci/cd", "devops", "agile", "scrum", "kanban",
-
-    # Data and Analytics
     "data science", "machine learning", "deep learning", "nlp", "computer vision", "statistics",
-    "tableau", "power bi", "excel", "matlab", "spss", "sas", "stata", "r studio", "power query",
-
-    # Design and Creative
+    "tableau", "power bi", "excel", "spss", "sas", "stata", "r studio", "power query",
     "ui/ux design", "graphic design", "figma", "adobe xd", "photoshop", "illustrator", "indesign",
     "sketch", "coreldraw", "animation", "3d modeling", "blender", "maya", "cinema 4d", "after effects",
     "premiere pro", "audacity", "logic pro", "fl studio",
-
-    # Business and Management
     "project management", "business analysis", "financial analysis", "accounting", "bookkeeping",
     "marketing", "digital marketing", "seo", "sem", "content marketing", "social media management",
     "sales", "customer relationship management", "crm", "erp", "supply chain management",
     "logistics", "human resources", "recruitment", "training", "leadership", "team management",
-
-    # Healthcare and Medicine
     "nursing", "surgery", "pharmacy", "physical therapy", "radiology", "cardiology", "dentistry",
     "psychology", "counseling", "first aid", "cpr", "medical coding", "health informatics",
-
-    # Education and Training
     "teaching", "curriculum development", "e-learning", "tutoring", "instructional design",
     "classroom management", "special education", "language instruction",
-
-    # Trades and Manual Skills
     "carpentry", "plumbing", "electrician", "welding", "masonry", "painting", "landscaping",
     "automotive repair", "mechanical engineering", "construction management",
-
-    # Science and Research
     "biology", "chemistry", "physics", "astronomy", "geology", "environmental science",
     "biotechnology", "genetics", "research methodology", "scientific writing",
-
-    # Arts and Humanities
     "writing", "journalism", "creative writing", "poetry", "screenwriting", "editing",
     "translation", "interpreting", "history", "philosophy", "archaeology", "music theory",
     "instrument performance", "singing", "dance", "theater",
-
-    # Legal and Administrative
     "legal research", "contract drafting", "paralegal", "court reporting", "administrative support",
     "office management", "data entry", "scheduling", "event planning",
-
-    # Security and Safety
     "cybersecurity", "ethical hacking", "penetration testing", "firewall management",
     "encryption", "risk assessment", "occupational safety", "emergency response",
-
-    # Communication and Interpersonal
     "public speaking", "negotiation", "conflict resolution", "active listening", "empathy",
     "teamwork", "networking", "cross-cultural communication",
-
-    # Miscellaneous
     "photography", "videography", "cooking", "baking", "bartending", "gardening", "sewing",
     "knitting", "woodworking", "pottery", "jewelry making", "calligraphy", "yoga instruction",
-    "fitness training", "sports coaching", "meditation", "chess strategy"
+    "fitness training", "sports coaching", "meditation", "chess strategy",
+    "fastapi", "flask", "express js", "next js", "nuxt js", "nestjs", "svelte", "sveltekit",
+    "d3.js", "three.js", "plotly", "chart.js", "bootstrap", "tailwind css", "material ui", "chakra ui",
+    "openai api", "llamaindex", "langchain", "transformers", "spacy", "nltk", "huggingface",
+    "opencv", "mediapipe", "albumentations", "mlflow", "airflow", "gradio", "streamlit",
+    "pyspark", "data bricks", "delta lake", "snowflake", "bigquery", "redshift",
+    "zookeeper", "prometheus", "grafana", "splunk", "new relic", "datadog",
+    "cobol", "fortran", "vhdl", "verilog",
+    "vault", "helm", "istio", "nginx", "apache", "tomcat", "load balancer",
+    "ssl certificates", "https", "network configuration", "linux shell scripting", "bash",
+    "powershell", "wireshark", "snort", "nessus", "burp suite", "metasploit", "security compliance",
+    "cloudflare", "firebase", "netlify", "vercel", "aws lambda", "aws ec2", "s3", "iam",
+    "azure devops", "azure functions", "gcp cloud run", "gcp bigtable",
+    "data engineering", "etl pipelines", "data cleaning", "data wrangling", "feature engineering",
+    "time series forecasting", "llm fine-tuning", "prompt engineering", "recommender systems",
+    "generative ai", "autoencoders", "gan", "xgboost", "lightgbm", "catboost",
+    "unit testing", "integration testing", "jest", "mocha", "chai", "junit", "selenium", "cypress",
+    "postman", "swagger", "soapui", "testng", "load testing", "ui testing", "tdd", "bdd",
+    "sap", "zoho", "tally", "power automate", "jira", "asana", "notion", "confluence",
+    "okrs", "kpis", "budgeting", "forecasting", "payroll", "compliance", "procurement",
+    "tax filing", "invoice processing", "risk management", "lean methodology", "six sigma",
+    "canva", "webflow", "figjam", "notch", "unity", "unreal engine", "davinci resolve",
+    "nuke", "gimp", "inkscape", "procreate", "zbrush",
+    "google classroom", "moodle", "blackboard", "zoom", "teams", "online facilitation",
+    "learning management systems", "communication strategy", "copywriting",
+    "proofreading", "technical writing", "grant writing", "seo writing", "blogging",
+    "video scripting", "content planning", "copyediting", "speech writing",
+    "legal compliance", "regulatory affairs", "case management", "patent law", "litigation support",
+    "intellectual property", "immigration law", "legal transcription",
+    "telemedicine", "electronic health records", "clinical research", "healthcare analytics",
+    "pharmacovigilance", "patient care", "medical imaging", "lab technician", "epidemiology",
+    "autocad", "solidworks", "catia", "fusion 360", "3d printing", "mechatronics",
+    "robotics", "pcb design", "arduino", "raspberry pi", "iot", "embedded systems",
+    "drone operation", "event photography", "video editing", "barista skills", "housekeeping",
+    "pet care", "interior design", "fashion design", "tattoo art", "astrology", "numerology",
+    "zumba", "pilates", "bodybuilding", "marathon training", "first responder training",
+    "problem solving", "critical thinking", "decision making", "time management",
+    "emotional intelligence", "adaptability", "presentation skills", "mentorship",
+    "accountability", "work ethic", "creativity", "initiative", "goal setting",
+    "storytelling", "mind mapping", "growth mindset"
+
 ]
