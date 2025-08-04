@@ -4,11 +4,13 @@ from resume_parser import extract_text_from_pdf
 from scorer import compute_resume_score
 from search import search_jobs_by_query
 from normalize import normalize_tags, normalize_text
+from jd_matcher import router as jd_matcher_router
 from pydantic import BaseModel
 from typing import List
 import uvicorn
 import json
 from extractor import extract_skills_light
+
 
 
 
@@ -51,6 +53,7 @@ async def apply_resume(file: UploadFile, job_tags: str = Form(...)):
     return {"score": score}
 
 
+app.include_router(jd_matcher_router, prefix="/match")
 
 
 @app.post("/live_search")
